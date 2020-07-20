@@ -19,7 +19,7 @@
     "bip39": "^3.0.2",
     "libsodium-wrappers": "0.7.3",
     "libsodium-wrappers-sumo": "0.7.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "typescript": "^3.8.3",
     "bs58": "latest"
   }
